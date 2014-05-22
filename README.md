@@ -27,3 +27,39 @@ Prints out a spiral. Supports square and rectangular matrices.
     ---X
     X--X
     XXXX
+
+###### 5x5
+
+    XXXXX
+    ----X
+    XXX-X
+    X---X
+    XXXXX
+    
+###### 9x9
+
+    XXXXXXXXX
+    --------X
+    XXXXXXX-X
+    X-----X-X
+    X-XXX-X-X
+    X-X---X-X
+    X-XXXXX-X
+    X-------X
+    XXXXXXXXX
+    
+###### 12x20
+
+    XXXXXXXXXXXXXXXXXXXX
+    -------------------X
+    XXXXXXXXXXXXXXXXXX-X
+    X----------------X-X
+    X-XXXXXXXXXXXXXX-X-X
+    X-X------------X-X-X
+    X-X-X----------X-X-X
+    X-X-XXXXXXXXXXXX-X-X
+    X-X--------------X-X
+    X-XXXXXXXXXXXXXXXX-X
+    X------------------X
+    XXXXXXXXXXXXXXXXXXXX
+
